@@ -4,8 +4,6 @@
 
 ### What it should look like:
 
-TESTING
-
 ![Calculator](calculator.jpg)
 
 ### How to submit your code for review:
